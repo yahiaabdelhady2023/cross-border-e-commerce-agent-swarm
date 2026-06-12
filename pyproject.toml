@@ -1,0 +1,17 @@
+[project]
+name = "cross-border-e-commerce-agent-swarm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "langchain>=1.3.4",
+    "langchain-google-genai>=4.2.4",
+    "langchain-google-vertexai>=3.2.3",
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.2.4",
+    "ollama>=0.6.2",
+    "python-dotenv>=1.2.2",
+    "tqdm>=4.68.1",
+]

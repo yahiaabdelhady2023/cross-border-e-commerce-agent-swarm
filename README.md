@@ -1,2 +1,8 @@
 # cross-border-e-commerce-agent-swarm
-...
+
+
+Description it is an multi-agent system takes popular product overseas tries to market it locally with respect to local culture and local interests, for example it takes a product from Amazon, then it tries to market it on popular in china platforms such as  Douyin (TikTok) and Xiaohongshu (RED) , it generates script for short-videos relevant to chinese audience on each platform, one agent is concerned with Culture nuances, other agent is concerned with platform specific, it adjusts short video script based on each platform it is uploading on, another agent acts as safety guard, it checks taboos, legal law, terms that are forbidden in china or the platforms, testing should be done to ensure that these models do not halluncinate, and do not make up prices for these items that are fetched online, regarding speed of the system, system should be fast, and reduce inference costs by a specific metrics, the algorithm that will be used is called Agent Swarm, each agent is specialised in a specific task but they both have to cooporate to achieve a specific objective. privacy and security aspects should be included in the project as well                                                                                                                                    
+`Functional Requirements:`
+1.  An Agent should be able to fetch products data from `Amazon API`, `Spotify`
+2.  An Agent should use Retrievel Augmented Generation `(RAG)` to scan through advertisings law in china as well as legal laws
+3. An Agent should localise marketing strategy to china
