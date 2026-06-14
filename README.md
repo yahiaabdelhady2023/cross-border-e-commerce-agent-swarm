@@ -6,3 +6,5 @@ Description it is an multi-agent system takes popular product overseas tries to 
 1.  An Agent should be able to fetch products data from `Amazon API`, `Spotify`
 2.  An Agent should use Retrievel Augmented Generation `(RAG)` to scan through advertisings law in china as well as legal laws
 3. An Agent should localise marketing strategy to china
+
+
