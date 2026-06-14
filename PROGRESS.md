@@ -22,3 +22,9 @@ Command 'python' not found, did you mean:
 1. langchain_hyperbrowser need paid API key, they do heavy lifting for you when it comes to extracting information from webpage rapidly
 2. I will use Beautiful Soap instead, to finish this job and ask Agentic AI model 1, to adhere to a specific pydantic schema when it coems to producing output I want to have a list of items in json like format
 3. failed to use Soap for AliExpress, must look for a workaround
+
+14-6-2026
+
+1. Change of plan instead of dealing with API URL and Web Scraping URL separately try to merge them together in a single workflow, like 3 nodes, but have a type to determine what type of data the node is dealing with if its json it will ignore mid node, else will do the whole workflow, in that sense instead of having 6 nodes + 1 anlaysis nodes, we will have 3 nodes with 1 analysis node
+
+2. implement analysis node better than this in a way that make sense, make it print out tokens, time taken, also error messages, and what tasks in each node took most of the time in this subgraph, and whether we need to visit one of nodes again because we failed
