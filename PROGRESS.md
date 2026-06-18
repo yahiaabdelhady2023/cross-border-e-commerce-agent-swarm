@@ -28,3 +28,8 @@ Command 'python' not found, did you mean:
 1. Change of plan instead of dealing with API URL and Web Scraping URL separately try to merge them together in a single workflow, like 3 nodes, but have a type to determine what type of data the node is dealing with if its json it will ignore mid node, else will do the whole workflow, in that sense instead of having 6 nodes + 1 anlaysis nodes, we will have 3 nodes with 1 analysis node
 
 2. implement analysis node better than this in a way that make sense, make it print out tokens, time taken, also error messages, and what tasks in each node took most of the time in this subgraph, and whether we need to visit one of nodes again because we failed
+
+18-6-2026
+
+1. instead of writing a track variable to track time, tokens in each node manually i can use langsmith , that is the industry practice
+2. clear description to LLM is important
