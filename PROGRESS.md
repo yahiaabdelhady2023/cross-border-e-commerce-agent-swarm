@@ -31,5 +31,8 @@ Command 'python' not found, did you mean:
 
 18-6-2026
 
-1. instead of writing a track variable to track time, tokens in each node manually i can use langsmith , that is the industry practice
+1. instead of writing a track variable to track time, tokens in each node manually i can use langsmith , that is the industry practice, note that langsmith for google gen needs to be installed, there is different langsmith installation for each different llm
 2. clear description to LLM is important
+3. what if text file or dataset is locked being processed, shouldn't agent have ability to visit again after some time
+4. different encoding issues to be handled
+5. what if text file is too large to be processed? what is a better way of processing it without consuming all tokens that are available
