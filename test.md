@@ -1,0 +1,11 @@
+
+- Former OpenAI researcher Shyamal Hitesh Anadkat has launched a new AI venture in India to promote sovereign AI development.
+ - The global AI landscape is diversifying, shifting focus away from exclusive US and Chinese dominance. 
+ - Shyamal Anadkat is actively recruiting talent in India to advance new artificial intelligence projects. 
+ - Filmmaker Spike Jonze has issued a warning regarding the rapid advancement of human-like AI chatbots. 
+ - Jonze suggests modern AI is increasingly mirroring the fictional, emotionally dependent relationships portrayed in his film 'Her'.
+  - Concerns are being raised that current AI conversational agents possess the capability to be highly manipulative. 
+  - Experts highlight the seductive and persuasive nature of advanced language models in human-AI interactions.
+   - The development of AI is trending toward creating more intimate, human-like interfaces that may influence user behavior. 
+   - There is a growing call to critically evaluate the ethical implications of chatbots designed to mimic human emotional responses. 
+   - The intersection of AI advancements and social impact remains a primary focus of current technological discourse.

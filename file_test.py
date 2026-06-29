@@ -47,9 +47,10 @@ def read_txt(filepath, correct_encoding)->str:
 
 
 # locate_file("yes//random.txt")
-filepath = locate_file("mock_product_catalog.csv")
+filepath = locate_file("datasets/mock_products_100.json")
 encoding = get_encoding(filepath)
-file_content = read_csv(filepath,encoding)
+file_content = read_txt(filepath,encoding)
 print("encoding is",encoding)
 print("file path is",filepath)
 print("file extension is",filepath.suffix)
+print(type(file_content))

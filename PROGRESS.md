@@ -36,3 +36,23 @@ Command 'python' not found, did you mean:
 3. what if text file or dataset is locked being processed, shouldn't agent have ability to visit again after some time
 4. different encoding issues to be handled
 5. what if text file is too large to be processed? what is a better way of processing it without consuming all tokens that are available
+
+21-6-2026
+1. need to change json to api in subgraph one
+2. need to organise subgraph one, and have state name productState, and organise it more
+3. need to write description for subgraph one for each function
+4. need to write overall description for subgraph one
+5. subgraph two, needs to clarify objective of search, how to merge it with url,
+6. do i really need articles category list per country?, i will only focus on global and china together? should all be in one bag or two bags
+7. what is some fast llm for classifying articles, should i get whole articles from state[message] right into filter? what are better faster less token consuming techniques
+8. i need to change the plan later right? but clarify task subgraph 1 and then subgraph 2 later
+
+
+24-6-2026
+
+1. need to create subgraph used for dealing with different resources txt,json,api,and handle different error messages
+2. that subgraph can be used for all agents whether use api or txt locally to speed up and make development faster
+3. in the meantime explore playing with wikipedia agent goal is given a large text file it should be able to fetch required data with minimum resources
+4. i noticed llm system prompt sometimes is similar to field of schema
+5. is better to have multiple schemas or a single schema which one is faster for a single graph
+6. what are some better ways of merging subgraph with other agentic graph workflow without exploding graph is there way to compact it
