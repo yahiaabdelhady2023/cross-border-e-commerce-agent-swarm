@@ -2,6 +2,8 @@ import csv
 import chardet
 from pathlib import Path
 from requests import request
+import re
+from bs4 import BeautifulSoup
 
 FAIL="failed"
 SUCCESS="success"
@@ -48,3 +50,28 @@ def locate_file(filepath, allowed_time=30) -> Path | str:
                 return FAIL
     print(f"error does not exist {filepath}")
     return FAIL
+
+
+
+def pythonic_text_clean(target_string: str) -> str:
+    """using only pythonic methods to clean large string documents"""
+    url_pattern=r"https://[^\s]+"
+    email_pattern=r"[A-Za-z0-9]+[@]{1}[^\s]*"
+    phone_pattern=r"[0-9]+[-]{1}[0-9]+[^\s]*"
+    soup_string = BeautifulSoup(target_string,"html.parser")
+    string_without_tags = soup_string.get_text()
+    string_stripped = string_without_tags.strip() #remove whitespaces    
+    urls = re.findall(url_pattern,string_stripped)
+    emails = re.findall(email_pattern,string_stripped)
+    phones = re.findall(phone_pattern,string_stripped)
+    stuff_to_remove = [urls,emails,phones]
+    for list_to_remove in stuff_to_remove:
+        for substring in list_to_remove:
+            string_stripped = string_stripped.replace(substring,"")
+    string_stripped  = string_stripped.replace("\n","")
+    string_stripped  = string_stripped.replace("\t","")
+
+    #removing all white spaces but leaving a single space in between words
+    split_string = string_stripped.split()
+    string = " ".join(split_string)
+    return string
