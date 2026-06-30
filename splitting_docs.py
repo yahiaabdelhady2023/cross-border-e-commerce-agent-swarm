@@ -178,7 +178,7 @@ Wind storms can be frequent, bringing Saharan dust into the city from March to M
 
 
 text_splitter = CharacterTextSplitter.from_tiktoken_encoder(
-    chunk_size=1000, chunk_overlap=0
+    chunk_size=500, chunk_overlap=50
 )
 
 
