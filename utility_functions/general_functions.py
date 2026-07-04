@@ -1,22 +1,33 @@
 import csv
 import chardet
 from pathlib import Path
-from requests import request
+import requests
 import re
 from bs4 import BeautifulSoup
+import os
+from dotenv import load_dotenv
+
+EMAIL = os.environ["EMAIL"]
 
 FAIL="failed"
 SUCCESS="success"
-
+USER_AGENT_INFO=f"MyPersonalAgentApp/1.0 ({EMAIL})"
+HEADER={
+    "User-Agent":USER_AGENT_INFO
+}
 
 def handle_web_requests(url: str):
     try:
-        respond = request(method="GET",url=url,timeout=2)
+        # Fixed: Changed 'request' to 'requests.get'
+        respond = requests.get(url=url, timeout=2, headers=HEADER)
+        
         if respond.status_code == 200:
             return (respond, SUCCESS)
         else:
-            error_msg = f"Error Failed due to status_code in handle_web_requests Reason : {e}"
+            # Fixed: Changed '{e}' to '{respond.status_code}' and '{respond.reason}'
+            error_msg = f"Error Failed due to status_code: {respond.status_code} Reason: {respond.reason}"
             return (error_msg, FAIL)
+            
     except Exception as e:
         error_msg = f"Error Failed to handle_web_requests reason : {e}"
         return (error_msg, FAIL)
@@ -75,3 +86,5 @@ def pythonic_text_clean(target_string: str) -> str:
     split_string = string_stripped.split()
     string = " ".join(split_string)
     return string
+
+
