@@ -56,3 +56,7 @@ Command 'python' not found, did you mean:
 4. i noticed llm system prompt sometimes is similar to field of schema
 5. is better to have multiple schemas or a single schema which one is faster for a single graph
 6. what are some better ways of merging subgraph with other agentic graph workflow without exploding graph is there way to compact it
+
+7-12-2026
+
+1. issues with document!! data type, i noticed sometimes even if i specified in schema, it returns string , the basemodel schema doesnot always seem to work as i expected
