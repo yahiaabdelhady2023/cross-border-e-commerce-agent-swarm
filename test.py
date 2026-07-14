@@ -1,4 +1,8 @@
-x={1:"a",2:"b"}
-y={3:"z",4:"X"}
+import json
 
-print(x.values())
+target_list=["Vibrant Runners: Bold Orange & Blue Sneakers","Modern LED Desk Lamp","Apple Phone Case"]
+
+with open("products.json","r") as f:
+        product_list = json.load(f)
+        print([p for p in product_list if p["name"] in target_list])
+
