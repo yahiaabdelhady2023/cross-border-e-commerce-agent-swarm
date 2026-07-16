@@ -1,33 +1,49 @@
 [
     {
-        "name": "Apple Phone Case",
-        "price": 271.0,
-        "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
-        "category": "Electronics",
+        "name": "Futuristic Chic High-Heel Boots",
+        "price": 63.0,
+        "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
+        "category": "Miscellaneous",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Apple Smartwatch ",
-        "price": 16.0,
-        "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
-        "category": "Electronics",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Mid-Century Modern Wooden Dining Table",
-        "price": 24.0,
-        "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
+        "name": "Sleek Modern Laptop for Professionals",
+        "price": 97.0,
+        "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
         "category": "Furniture",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Elegant Golden-Base Stone Top Dining Table",
-        "price": 66.0,
-        "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
-        "category": "Furniture",
+        "name": "Classic Black T-Shirt - updated",
+        "price": 53.0,
+        "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Vibrant Pink Classic Sneakers",
+        "price": 84.0,
+        "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+        "category": "Miscellaneous",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+        "price": 53.0,
+        "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+        "category": "Miscellaneous",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic High-Waisted Athletic Shorts",
+        "price": 43.0,
+        "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+        "category": "Clothes",
         "rating": null,
         "source_address": null
     },
@@ -35,7 +51,23 @@
         "name": "Modern Elegance Teal Armchair",
         "price": 25.0,
         "description": "Elevate your living space with this beautifully crafted armchair, featuring a sleek wooden frame that complements its vibrant teal upholstery. Ideal for adding a pop of color and contemporary style to any room, this chair provides both superb comfort and sophisticated design. Perfect for reading, relaxing, or creating a cozy conversation nook.",
-        "category": "Furniture",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Elegant Golden-Base Stone Top Dining Table",
+        "price": 66.0,
+        "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek Modern Leather Sofa",
+        "price": 53.0,
+        "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+        "category": "Shoes",
         "rating": null,
         "source_address": null
     },
@@ -43,6 +75,126 @@
         "name": "Elegant Solid Wood Dining Table",
         "price": 67.0,
         "description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek Smartwatch with Vibrant Display",
+        "price": 16.0,
+        "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic Navy Blue Baseball Cap",
+        "price": 61.0,
+        "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek Mirror Finish Phone Case",
+        "price": 27.0,
+        "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Efficient 2-Slice Toaster",
+        "price": 48.0,
+        "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Rainbow Glitter High Heels",
+        "price": 39.0,
+        "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+        "category": "Miscellaneous",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic Olive Chino Shorts",
+        "price": 84.0,
+        "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Stylish Red & Silver Over-Ear Headphones",
+        "price": 39.0,
+        "description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek Wireless Headphone & Inked Earbud Set",
+        "price": 44.0,
+        "description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek Wireless Computer Mouse",
+        "price": 10.0,
+        "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+        "category": "Furniture",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic Black Baseball Cap",
+        "price": 58.0,
+        "description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you\u2019re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic Comfort Drawstring Joggers",
+        "price": 79.0,
+        "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Mid-Century Modern Wooden Dining Table",
+        "price": 24.0,
+        "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic White Tee - Timeless Style and Comfort",
+        "price": 73.0,
+        "description": "Elevate your everyday wardrobe with our Classic White Tee. Crafted from premium soft cotton material, this versatile t-shirt combines comfort with durability, perfect for daily wear. Featuring a relaxed, unisex fit that flatters every body type, it's a staple piece for any casual ensemble. Easy to care for and machine washable, this white tee retains its shape and softness wash after wash. Pair it with your favorite jeans or layer it under a jacket for a smart look.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Classic White Crew Neck T-Shirt",
+        "price": 39.0,
+        "description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Sleek White & Orange Wireless Gaming Controller",
+        "price": 69.0,
+        "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
         "category": "Furniture",
         "rating": null,
         "source_address": null
@@ -51,156 +203,68 @@
         "name": "Modern Minimalist Workstation Setup",
         "price": 49.0,
         "description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
-        "category": "Furniture",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Modern Ergonomic Office Chair",
-        "price": 71.0,
-        "description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
-        "category": "Furniture",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Futuristic Holographic Soccer Cleats",
-        "price": 39.0,
-        "description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
         "category": "Shoes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Rainbow Glitter High Heels",
-        "price": 39.0,
-        "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+        "name": "Classic Comfort Fit Joggers",
+        "price": 25.0,
+        "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "atst",
+        "price": 111.0,
+        "description": "aaaaaaaaaaaaaaaaaaaaaaaa",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "cri_nome_1",
+        "price": 123.0,
+        "description": "cri_descr_1",
         "category": "Shoes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Chic Summer Denim Espadrille Sandals",
-        "price": 33.0,
-        "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
-        "category": "Shoes",
+        "name": "Cloned grid-enabled superstructure",
+        "price": 799.0,
+        "description": "This is a new product. It is the best",
+        "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Vibrant Runners: Bold Orange & Blue Sneakers",
-        "price": 27.0,
-        "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
-        "category": "Shoes",
+        "name": "Up-sized homogeneous projection",
+        "price": 799.0,
+        "description": "This is a new product. It is the best",
+        "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Vibrant Pink Classic Sneakers",
-        "price": 84.0,
-        "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
-        "category": "Shoes",
+        "name": "<Created Brand New Product>527761",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Futuristic Silver and Gold High-Top Sneaker",
-        "price": 68.0,
-        "description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
-        "category": "Shoes",
+        "name": "Created Brand New Product39989",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Futuristic Chic High-Heel Boots",
-        "price": 36.0,
-        "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
-        "price": 53.0,
-        "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Elegant Purple Leather Loafers",
-        "price": 17.0,
-        "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Classic Blue Suede Casual Shoes",
-        "price": 39.0,
-        "description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Sleek Futuristic Electric Bicycle",
-        "price": 22.0,
-        "description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Sleek All-Terrain Go-Kart",
-        "price": 37.0,
-        "description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Radiant Citrus Eau de Parfum",
-        "price": 73.0,
-        "description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Sleek Olive Green Hardshell Carry-On Luggage",
-        "price": 48.0,
-        "description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Chic Transparent Fashion Handbag",
-        "price": 61.0,
-        "description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Trendy Pink-Tinted Sunglasses",
-        "price": 38.0,
-        "description": "Step up your style game with these fashionable black-framed, pink-tinted sunglasses. Perfect for making a statement while protecting your eyes from the glare. Their bold color and contemporary design make these shades a must-have accessory for any trendsetter looking to add a pop of color to their ensemble.",
-        "category": "Miscellaneous",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Shoes",
-        "price": 100.0,
-        "description": "Best quality",
-        "category": "Electronics",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "<Created Brand New Product>4816",
+        "name": "<Created Brand New Product>365284",
         "price": 899.0,
         "description": "Created New Description Test Product",
         "category": "Clothes",
@@ -208,218 +272,362 @@
         "source_address": null
     },
     {
-        "name": "iPhone 17 Pro Max",
-        "price": 23.0,
-        "description": "test",
+        "name": "<Created Brand New Product>236017",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>493748",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>944341",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>568720",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>167561",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>850958",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>735550",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>361309",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>595164",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>760659",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>61363",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>859888",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>302100",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Created Brand New Product32897",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "atst2",
+        "price": 222.0,
+        "description": "test 2 upload image",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "new621 title",
+        "price": 12.0,
+        "description": "string",
+        "category": "category1 name",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "cri_nome_2",
+        "price": 123.0,
+        "description": "cri_descr_2",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "cri_nome_3",
+        "price": 123.0,
+        "description": "cri_descr_3",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>711117",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>583913",
+        "price": 578.0,
+        "description": "<UPDATED> Description",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>128027",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>180756",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>150941",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>490856",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>145980",
+        "price": 899.0,
+        "description": "Created New Description Test Product",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "<Created Brand New Product>697985",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Created Brand New Product44859",
+        "price": 799.0,
+        "description": "Created New Description",
+        "category": "Clothes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Anorbank",
+        "price": 1000000000.0,
+        "description": "Bank 111111111111",
         "category": "Electronics",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "balls",
+        "price": 67.0,
+        "description": "testing12354",
+        "category": "Miscellaneous",
         "rating": null,
         "source_address": null
     },
     {
         "name": "New Product",
-        "price": 0.0,
-        "description": "No description provided.",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "testt",
-        "price": 1.0,
-        "description": "testtt",
-        "category": "test2",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Modern LED Desk Lamp",
-        "price": 45.0,
-        "description": "No description provided.",
-        "category": "Electronics",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "12312",
-        "price": 123123.0,
-        "description": "123",
-        "category": "Shoes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Wireless Premium Headphones",
-        "price": 3.0,
-        "description": "asd",
-        "category": "Electronics",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Test Baju",
-        "price": 10000.0,
-        "description": "Ini Baju",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "hasndk",
-        "price": 60.0,
-        "description": "nwbbebsjsbbn",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Last Test",
-        "price": 222.0,
-        "description": "123",
-        "category": "Furniture",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "New Product293914",
-        "price": 737.0,
-        "description": "Chirographum canonicus desidero tabernus.",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Baju Ikan Biru",
-        "price": 5.0,
-        "description": "Baju ikan biru",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "New Product684720",
-        "price": 170.0,
-        "description": "Cumque testimonium vinitor hic animadverto velit vis. Talio versus comptus decerno. Vulgaris desipio ventito volutabrum.\nSit demoror creptio statua vivo surgo tumultus verbum calculus cauda. Tabula clam comes deripio. Praesentium aureus ascit adhaero officia expedita tamisium.\nAnte copia sordeo voluptas tenetur cunctatio voro crebro claudeo. Cur sursum anser. Terebro verbum sonitus copia patior labore termes.",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "New Product Arie Bagas Azzy Baru ",
-        "price": 10.0,
-        "description": "ini adalah test API manual Arie untuk menambahkan produk",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "New Cotton Shirt and pant",
-        "price": 1100.0,
-        "description": "Very nice and attractive",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Mobile Phones",
         "price": 10.0,
         "description": "A description",
+        "category": "Miscellaneous",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "anorbacm",
+        "price": 2222.0,
+        "description": "jjasassaasa as assa",
         "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "New Product567715",
-        "price": 846.0,
-        "description": "Accusantium denuncio fuga degusto triduana sol tripudio undique charisma casso. Utrimque comptus trado tracto. Tergum totam summa porro caput cogito amet acceptus.",
+        "name": "aadaddad",
+        "price": 2222.0,
+        "description": "sqsqqs sqqs qs  qsqs",
+        "category": "Electronics",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "New Product 4",
+        "price": 10.0,
+        "description": "A description",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Eleven",
+        "price": 10.0,
+        "description": "Twelve",
         "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "New Product379778",
-        "price": 587.0,
-        "description": "Aegrus sono auctus necessitatibus.",
+        "name": "cri_nome_4",
+        "price": 123.0,
+        "description": "cri_descr_4",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Eleven12",
+        "price": 10.0,
+        "description": "Twelve",
+        "category": "Miscellaneous",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "qwerty",
+        "price": 11.0,
+        "description": "descript this ",
+        "category": "Electronics",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "cri_nome_5",
+        "price": 123.0,
+        "description": "cri_descr_5",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "qwesttdyt",
+        "price": 3434.0,
+        "description": "djsfiajcoja",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "nmadr",
+        "price": 6328746832.0,
+        "description": "nmalardr",
+        "category": "Electronics",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "New Product484091",
+        "price": 1000.0,
+        "description": "A description",
+        "category": "Shoes",
+        "rating": null,
+        "source_address": null
+    },
+    {
+        "name": "Ushanka",
+        "price": 31.0,
+        "description": "Russian Ushanka",
         "category": "Clothes",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "Colorado Raft",
-        "price": 10000.0,
-        "description": "Creating a new Colorado Raft",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "New Prodsuct",
+        "name": "ONEPLUS 12R 5G",
         "price": 100.0,
-        "description": "A descrisption",
-        "category": "Grosery",
+        "description": "This is a new product",
+        "category": "Miscellaneous",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "\u0634\u0645\u0627\u0631\u0647 \u06cc\u06a9",
-        "price": 100000.0,
-        "description": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0645\u062d\u0635\u0648\u0644 \u06cc\u06a9",
-        "category": "Grosery",
+        "name": "Product Random 497",
+        "price": 100.0,
+        "description": "This is a new product",
+        "category": "Miscellaneous",
         "rating": null,
         "source_address": null
     },
     {
-        "name": "product number 3",
-        "price": 2000000.0,
-        "description": "description for product 3",
-        "category": "Grosery",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "pro number 10",
-        "price": 100000.0,
-        "description": "desc number 10",
-        "category": "Grosery",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "ssss",
-        "price": 1111.0,
-        "description": "sssss",
-        "category": "Computer Category",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "pro number 1000",
-        "price": 1000000.0,
-        "description": "desc number 10000",
-        "category": "Computer Category",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "kiki",
-        "price": 25.0,
-        "description": "hello",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "Laptop abcxyz123456789",
-        "price": 10.0,
+        "name": "New Product ${Date.now}",
+        "price": 1000.0,
         "description": "A description",
-        "category": "Clothes",
-        "rating": null,
-        "source_address": null
-    },
-    {
-        "name": "lily",
-        "price": 257.0,
-        "description": "koko 168",
-        "category": "Computer Category",
+        "category": "Shoes",
         "rating": null,
         "source_address": null
     }
