@@ -21,6 +21,7 @@ dependencies = [
     "langsmith>=0.8.9",
     "markdownify>=1.2.2",
     "ollama>=0.6.2",
+    "openrouter>=0.11.44",
     "python-dotenv>=1.2.2",
     "pytrends>=4.9.2",
     "sqlmodel>=0.0.39",
